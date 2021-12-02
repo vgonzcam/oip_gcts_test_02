@@ -7,7 +7,7 @@ stage('Deploy')
 	gctsDeploy(
 		script: this,
 		host:'https://lab-s4bfor.everislab.com:44340',
-		client: '210',
+		client: '700',
 		abapCredentialsId: 'ABAPUserPasswordCredentialsId',
 		repository: 'vgonzcam-oip_gcts_test_02',
 		remoteRepositoryURL: 'https://github.com/vgonzcam/oip_gcts_test_02',
