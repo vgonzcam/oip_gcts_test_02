@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"210",
+    "RCOMP":"001011",
+    "NAME1":"Company 1010",
+    "CNTRY":"DE",
+    "NAME2":"git 15:33",
+    "LANGU":"E",
+    "STRET":"16 Dietmar-Hopp-Allee",
+    "POBOX":"",
+    "PSTLC":"69190",
+    "CITY":"Walldorf",
+    "CURR":"EUR",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
