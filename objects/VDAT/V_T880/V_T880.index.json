@@ -16,6 +16,20 @@
      }
     ],
     "hash":"jqOcQAo10yoaZZJNvFn+elQla5A="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"210"
+     },
+     {
+      "key":"RCOMP",
+      "value":"001012"
+     }
+    ],
+    "hash":"PXva5s/IVW1ksk2Af4sMu+wgNP8="
    }
   ]
  }
