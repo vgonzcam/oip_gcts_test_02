@@ -8,5 +8,6 @@ REPORT ZTEST_GCTS.
 "this is a test
 
 WRITE 'Test'.
+WRITE 'El ultimo que hable paga el desayuno'.
 
 "Esto es nuevo
