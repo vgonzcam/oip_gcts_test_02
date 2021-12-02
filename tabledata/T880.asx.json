@@ -71,6 +71,29 @@
     "LCCOMP":"",
     "STRT2":"",
     "INDPO":""
+   },
+   {
+    "MANDT":"210",
+    "RCOMP":"001234",
+    "NAME1":"nombre 13:18",
+    "CNTRY":"ES",
+    "NAME2":"nombre 13:18",
+    "LANGU":"",
+    "STRET":"",
+    "POBOX":"",
+    "PSTLC":"",
+    "CITY":"",
+    "CURR":"",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
    }
   ]
  }

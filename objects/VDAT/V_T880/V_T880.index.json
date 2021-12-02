@@ -44,6 +44,20 @@
      }
     ],
     "hash":"PXva5s/IVW1ksk2Af4sMu+wgNP8="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"210"
+     },
+     {
+      "key":"RCOMP",
+      "value":"001234"
+     }
+    ],
+    "hash":"awk2gyFqItc86bdz+rWYtbNnBss="
    }
   ]
  }
